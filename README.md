@@ -1,4 +1,7 @@
 ## RESPOSTA DA QUESTAO 5 DO DESAFIO PARA EMPRESA TO-BRASIL
+## VERSAO DO ANGULAR USADA v7.2.2
+## VERSAO DO NODE v12.18.4
+## VERSAO DO NPM v6.14.6
 
 
 ## 5) Utilizando a plataforma StackBlitz (https://stackblitz.com) e a API Swapi
